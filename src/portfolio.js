@@ -18,7 +18,7 @@ const seo = {
 const greeting = {
   title: "Nawres tlili",
   logo_name: "A.Nawres",
-  nickname: "Data Analyst",
+  nickname: "Data Scientist",
   subTitle:
     "Hi, I'm Nawres Tlili, an aspiring Data Scientist with a passion for machine learning, data analysis, and building data-driven solutions.",
   resumeLink:
