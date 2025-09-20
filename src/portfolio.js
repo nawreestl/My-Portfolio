@@ -19,7 +19,7 @@ const seo = {
 const greeting = {
   title: "Nawres Tlili",
   logo_name: "A.Nawres",
-  nickname: "Data Analyst",
+  nickname: " Data Scientist | Data Analyst",
   subTitle:
     "Hello, I'm Nawres Tlili, a Data Scientist and Business Intelligence enthusiast. I specialize in turning complex data into actionable insights using machine learning, predictive modeling, and interactive dashboards to drive real-world impact.",
   resumeLink:
