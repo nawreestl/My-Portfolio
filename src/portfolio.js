@@ -23,7 +23,7 @@ const greeting = {
   subTitle:
     "Hello, I'm Nawres Tlili, a Data Scientist and Business Intelligence enthusiast. I specialize in turning complex data into actionable insights using machine learning, predictive modeling, and interactive dashboards to drive real-world impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1M2VWjryOEOLHI0knuP0_iOCCNyl_okZ-/view?usp=sharing",
+    "https://drive.google.com/file/d/16QO2HWk1ho2V1howzw6-b7hgx2HArsux/view?usp=sharing",
   portfolio_repository: "https://github.com/nawreestl",
   githubProfile: "https://github.com/nawreestl",
 };
